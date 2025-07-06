@@ -1,4 +1,4 @@
-print("=== Calculadora de Entregas Lorenzon ===")
+print("=== Calculadora de Entregas ===")
 
 entrega = int(input("Quantas entregas você fez hoje? "))
 entrega4 = int(input(f"Dessas {entrega} entregas, quantas foram de menos de 3km? "))
